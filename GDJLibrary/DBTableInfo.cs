@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace GDJLibrary
 {
     public class ColumnInfo
-    {
+    { 
         public string clmname { get; set; } = string.Empty;
         public string typename { get; set; } = string.Empty;
 
